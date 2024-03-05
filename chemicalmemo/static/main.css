@@ -1,0 +1,17 @@
+img{vertical-align:bottom}
+
+.header-box{padding:80px 0 30px 0;text-align:center}
+.header-box .title{font-size:30px;font-family:sans-serif;color:#333}
+
+.download-box{max-width:800px;min-height:50px;margin:0 auto;padding-bottom:50px;text-align:center}
+
+.annotation-box{max-width:800px;margin:0 auto;text-align:center}
+.footer{margin-top:100px;text-align:center}
+.footer a{color:#333}
+.copyright{margin:20px 0 50px 0;text-align:center}
+
+.icon{width:180px;height:180px}
+.download-button-link{display:inline-block;margin-bottom:20px}
+.appstore-button-spacer{margin-right:32px}
+.appstore-button{width:150px;height:50px}
+.googleplay-button{width:167px;height:50px}
